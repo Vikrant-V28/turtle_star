@@ -6,7 +6,7 @@ The simple Python program to draw `Star Pattern` using Turtle Programming.
 - `Turtle`
 
 ### How to run the script
-> python turtlestar.py
+Execute `python turtlestar.py`
 
 ![turtle_star](https://user-images.githubusercontent.com/85709371/152527599-0757aafd-72a8-440f-b406-f0cdeb97de27.png)
 
